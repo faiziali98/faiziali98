@@ -23,6 +23,8 @@ I am a Software Engineer at Educative. Previously I was a Masters student & grad
 
 Offering five years of software development and research experience with high level, imperative, object oriented languages. Skilled with the concepts of version control, unit testing, agile development, open source, and team-driven collaborative programming. Interested and experienced in working with algorithms, data structures, Artificial Intelligence, distributed and operating systems. Strong command and interest in Data Science and Deep Learning.
 
+### Personal Links
+
 [Google Scholar](https://scholar.google.com.tr/citations?user=vWkIM_cAAAAJ&hl=en)
 
 [Personal Website](https://faiziali98.github.io/)
