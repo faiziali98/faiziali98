@@ -27,8 +27,8 @@ Offering five years of software development and research experience with high le
 
 ### Personal Links
 
-[Google Scholar](https://scholar.google.com.tr/citations?user=vWkIM_cAAAAJ&hl=en)
-
-[Personal Website](https://faiziali98.github.io/)
-
-[LinkedIn](https://www.linkedin.com/in/faiziali436/)
+Complete List of Papers: [Google Scholar](https://scholar.google.com.tr/citations?user=vWkIM_cAAAAJ&hl=en)
+<br>
+More about me: [Personal Website](https://faiziali98.github.io/)
+<br>
+Contact me through: [LinkedIn](https://www.linkedin.com/in/faiziali436/)
