@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 ![alt text](https://github.com/faizanaliedu/faizanaliedu/blob/main/banner.png?raw=true)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faiziali98&show_icons=true&theme=radical)
+
 ### About Me
 
 I am a Software Engineer at Educative. Previously I was a Masters student & graduate research/teaching assistant at Koç University in the Department of Engineering, where I was being advised by Dr. Oznur Ozkasap. I received my B.S. degree in Computer Sciences in 2017 from the School of Science and Engineering (SSE) of Lahore University of Managment Sciences (LUMS), Pakistan, where I worked with Netwrok Group as an Undergraduate Research Assistant before moving to Illinois in 2017. Over there, I was working on the algorithms of distributed systems with Dr. Ajay Kshemkalyani. At the start of 2019, I left UIC and went to Koc University. After my graducation I joined Educative.
