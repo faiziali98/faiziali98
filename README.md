@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 
 ![alt text](https://github.com/faizanaliedu/faizanaliedu/blob/main/banner.png?raw=true)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faiziali98&show_icons=true&theme=radical)
 
 ### About Me
 
